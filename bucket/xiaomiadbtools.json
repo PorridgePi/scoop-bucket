@@ -19,7 +19,7 @@
     "shortcuts": [
         [
             "xiaomiadbtools.bat",
-            "Xiaomi ADB/Fastboot Tools"
+            "Xiaomi ADB Fastboot Tools"
         ]
     ],
     "checkver": {
