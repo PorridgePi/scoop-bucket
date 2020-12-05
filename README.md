@@ -1,6 +1,19 @@
-# Scoop Bucket
+<h1 align="center">Porridge's Bucket</h1>
+<p align="center">
+    <a href="https://github.com/porridgepi/scoop-bucket/blob/master/LICENSE"><img src="https://img.shields.io/github/license/porridgepi/scoop-bucket.svg?style=flat-square" alt="License"></a>
+    <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Target-Windows%2010-0067B8.svg?style=flat-square" alt="Windows" /></a>
+    <a href="https://github.com/porridgepi/scoop-bucket"><img src="https://img.shields.io/github/repo-size/porridgepi/scoop-bucket.svg?style=flat-square" alt="Repo size"></a>
+</p>
 
-My personal bucket for [Scoop](http://scoop.sh), with certain packages not included in the known buckets.
+<p align="center">
+        <a href="README.md">English</a> | <a href="README-zh.md">简体中文</a>
+</p>
+
+<blockquote>
+        Yet Another <a href="https://github.com/lukesampson/scoop">Scoop</a> <a href="https://github.com/lukesampson/scoop/wiki/Buckets">Bucket</a>
+</blockquote>
+
+
 
 ## Scoop Installation
 
@@ -27,6 +40,13 @@ Run the following command to add this bucket to your Scoop installation
 ```powershell
 scoop bucket add porridge https://github.com/PorridgePi/scoop-bucket
 ```
-## Included packages
-* `yumi`
-* `yumi-uefi`
+## Manifests
+### Available manifests for installation
+| App name                  | Manifest name | Description |
+|-------------------------- | ------------- | ----------- |
+| [Legacy YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) | `yumi` | Multiboot USB Creator - Legacy BIOS |
+| [YUMI UEFI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) | `yumi-uefi` | Multiboot USB Creator - UEFI |
+
+### Deprecated (Removed)
+| App name                  | Manifest name | Description |
+|-------------------------- | ------------- | ----------- |
