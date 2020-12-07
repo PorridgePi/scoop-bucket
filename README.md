@@ -46,6 +46,8 @@ scoop bucket add porridge https://github.com/PorridgePi/scoop-bucket
 |-------------------------- | ------------- | ----------- |
 | [Legacy YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) | `yumi` | Multiboot USB Creator - Legacy BIOS |
 | [YUMI UEFI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) | `yumi-uefi` | Multiboot USB Creator - UEFI |
+| [Dynalist](https://dynalist.io) | `dynalist` | The best outlining app for your best work |
+| [Furmark](https://www.geeks3d.com/20200924/furmark-1-22-0-released/) | `furmark` | Furmark v1.22.2.0 which can be installed by innunp |
 
 ### Deprecated (Removed)
 | App name                  | Manifest name | Description |
