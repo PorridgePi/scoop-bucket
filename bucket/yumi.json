@@ -1,12 +1,12 @@
 {
-    "version": "2.0.8.0",
+    "version": "2.0.8.1",
     "description": "Multiboot USB Creator",
     "homepage": "https://www.pendrivelinux.com/yumi-multiboot-usb-creator",
-    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-2.0.8.0.exe",
-    "hash": "md5:434b1762c729c6339a6b964542d077ec",
+    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-2.0.8.1.exe",
+    "hash": "52adb3c648511ddb78499b169edc9a937c71d6bd72b57ad9b4e06bfa0c14e701",
     "shortcuts": [
         [
-            "YUMI-2.0.8.0.exe",
+            "YUMI-2.0.8.1.exe",
             "YUMI"
         ]
     ],
