@@ -13,7 +13,7 @@
             "FurMark"
         ]
     ],
-    "checkver": {
+    "checkverr": {
         "url": "https://geeks3d.com/furmark/downloads/",
         "regex": "<b>Version ([\\d.]+) - (?<year>\\d+)-\\d+-\\d+</b>"
     },
