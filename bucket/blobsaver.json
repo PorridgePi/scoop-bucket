@@ -1,0 +1,25 @@
+{
+    "version": "2.5.5",
+    "description": "A GUI for saving SHSH blobs using tsschecker",
+    "homepage": "https://github.com/airsquared/blobsaver",
+    "license": {
+        "identifier": "GPL-3.0-only",
+        "url": "https://github.com/airsquared/blobsaver/blob/master/LICENSE"
+    },
+    "url": "https://github.com/airsquared/blobsaver/releases/download/v2.5.5/blobsaver-windows.exe",
+    "hash": "a3aa4431f93540c5e269bd15f67ca3f48120559272d63ea3bfe8702afc60a428",
+    "innosetup": true,
+    "bin": "blobsaver.exe",
+    "shortcuts": [
+        [
+            "blobsaver.exe",
+            "blobsaver"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/airsquared/blobsaver"
+    },
+    "autoupdate": {
+        "url": "https://github.com/airsquared/blobsaver/releases/download/v$version/blobsaver-windows.exe"
+    }
+}
