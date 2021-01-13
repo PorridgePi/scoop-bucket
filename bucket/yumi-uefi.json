@@ -1,9 +1,9 @@
 {
-    "version": "0.0.3.2",
+    "version": "0.0.3.3",
     "description": "Multiboot USB Creator",
     "homepage": "https://www.pendrivelinux.com/yumi-multiboot-usb-creator",
-    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-UEFI-0.0.3.2.exe",
-    "hash": "md5:7f3a14a306f4f7b6df6ef888718d35fd",
+    "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-UEFI-0.0.3.3.exe",
+    "hash": "b92163b1e1dd99de32ba09d7f554fe3c377b6cd4e350322075d7959cc0616db5",
     "shortcuts": [
         [
             "YUMI-UEFI-0.0.3.2.exe",
