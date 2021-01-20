@@ -18,7 +18,7 @@
         "url": "https://www.pendrivelinux.com/downloads/YUMI/YUMI-$version.exe#/YUMI.exe",
         "hash": {
             "url": "https://www.pendrivelinux.com/yumi-multiboot-usb-creator/",
-            "regex": "YUMI MD5: $md5"
+            "regex": "YUMI SHA-256: $sha256"
         }
     }
 }
